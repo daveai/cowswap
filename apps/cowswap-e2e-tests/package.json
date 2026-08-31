@@ -7,8 +7,8 @@
   "license": "ISC",
   "dependencies": {
     "viem": "2.48.8",
-    "@cowprotocol/cow-sdk": "9.2.6-pr-972-132f501c.0",
-    "@cowprotocol/sdk-order-book": "4.0.2-pr-972-132f501c.0"
+    "@cowprotocol/cow-sdk": "9.2.6",
+    "@cowprotocol/sdk-order-book": "4.0.2"
   },
   "devDependencies": {
     "@playwright/test": "1.49.1",
